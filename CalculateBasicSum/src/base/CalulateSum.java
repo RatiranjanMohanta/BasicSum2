@@ -10,7 +10,7 @@ public class CalulateSum {
 		// TODO Auto-generated method stub
 		
 		CalulateSum obj=new CalulateSum();
-		System.out.println("Result is :"+obj.sum(10, 20));
+		System.out.println("Result is of  :"+obj.sum(10, 20));
 
 	}
 
